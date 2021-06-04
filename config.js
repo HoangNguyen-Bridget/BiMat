@@ -9,9 +9,9 @@ const CONFIG = {
     desc: 'Cãi nhau là cãi nhau chúng mình rất phù hợp chỉ cần anh còn sống thì sẽ không bao giờ buông em, em tha lỗi cho anh nhé ',
     btnYes: 'Vâng em sẽ tha lỗi cho anh lần cuối cùng này',
     btnNo: 'Không, đâu thằng ngu:3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    question:'Hãy hứa yêu anh chọn đời nha<3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    reply: 'Dạ <33333333',
     messDesc: 'Anh xin lỗi vì nhưng ngày qua làm cho em cáu gắt với anh nhá, nhưng anh sẽ không làm em phải cáu gắt với anh nữa đâu.',
 
     btnAccept: 'Okiiiii lun <3',
