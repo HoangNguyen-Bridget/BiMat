@@ -15,5 +15,5 @@ const CONFIG = {
     messDesc: 'Anh xin lỗi vì nhưng ngày qua làm cho em cáu gắt với anh nhá, nhưng anh sẽ không làm em phải cáu gắt với anh nữa đâu.',
 
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyen.royal.733/'
+    messLink: 'https://www.facebook.com/nguyen.royal.733/',
 }
