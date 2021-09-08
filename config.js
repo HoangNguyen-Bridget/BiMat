@@ -1,19 +1,20 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Anh biết mặc dù dạo này em thường hay cáu gắt với anh
-    Nhưng không sao anh sẽ vẫn luôn cố gắng giữ được em
-    Bởi vì em vẫn luôn là người quan trọng nhất cuộc đời của anh
-    Em biết không đằng sau chữ yêu em mà còn là thương em, thương em nhiều lắm`,
+    introDesc: `Mặc dù anh với em chỉ quen nhau trong thời gian ngắn
+    Anh cũng đã muốn viết cho em bài thơ nào đấy
+    Nhưng nghĩ lại chỉ thấy một từ nhớ em 
+    Nhưng mà em biết không từ cái ngày mà sét đánh anh không chết
+    Thì anh đã kết lấy em về nhà rồi đó`,
     btnIntro: 'hihi, love you so',
-    title: 'Mỗi lần chúng mình cải nhau đừng nghĩ đến việc có hợp nhau hay không 😙',
-    desc: 'Cãi nhau là cãi nhau chúng mình rất phù hợp chỉ cần anh còn sống thì sẽ không bao giờ buông em, em tha lỗi cho anh nhé ',
-    btnYes: 'Vâng em sẽ tha lỗi cho anh lần cuối cùng này',
-    btnNo: 'Không, đâu thằng ngu:3',
-    question:'Hãy hứa yêu anh chọn đời nha<3',
+    title: 'Phải chăng anh đã yêu em ngày từ cái nhìn đầu tiên 😙',
+    desc: 'Mặc dù anh biết cài win thế nhưng cài cho em hệ điều hành nào mang giao diện chính là anh thì chưa. Liệu em có thể cho anh cài hệ điều hành đó cho em được không?',
+    btnYes: 'Vâng ạ, babi của em ❤ ',
+    btnNo: 'Không đâu anh trai à :3',
+    question:'Hãy cho anh một cơ hội làm người yêu em nha <3', 
     btnReply: 'Gửi cho anh <3',
     reply: 'Dạ <33333333',
-    messDesc: 'Anh xin lỗi vì nhưng ngày qua làm cho em cáu gắt với anh nhá, nhưng anh sẽ không làm em phải cáu gắt với anh nữa đâu.',
-
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Pinky swear ?',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nguyen.royal.733/',
+    messLink: 'https://www.facebook.com/nga.phamthuy.1441',
 }
