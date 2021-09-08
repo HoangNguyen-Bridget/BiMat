@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'You know that 🥰. Love you so much 😘😘',
     messDesc: 'Pinky swear ?',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nga.phamthuy.1441',
+    messLink: 'https://www.facebook.com/nga.phamthuy.1441'
 }
