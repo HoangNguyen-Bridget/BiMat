@@ -1,13 +1,13 @@
 const CONFIG = {
     introTitle: 'Babe à!',
-    introDesc: `Although he and I have only known each other for a short time
-    And I also want to write you a poem
-    But thinking back, I only see one word miss you 
-    But did you know since the day lightning struck I didn't die
-    And I love you so much❤️`,
+    introDesc: `Mặc dù anh với em chỉ quen nhau trong thời gian ngắn.
+    Anh cũng đã muốn viết cho em bài thơ nào đấy.
+    Nhưng nghĩ lại chỉ thấy một từ nhớ em. 
+    Nhưng mà em biết không từ cái ngày mà sét đánh anh không chết.
+    Thì anh đã kết lấy em về nhà rồi đó.❤️`,
     btnIntro: 'hihi, love you so',
-    title: 'Although it's very easy to install win with me 😙',
-    desc: 'However, I have not installed any operating system that looks like I have for you. Would you mind letting me install that OS for you?',
+    title: 'Mặc dù anh cài win với anh là chuyện đơn giản 😙',
+    desc: 'Thế nhưng cài cho em hệ điều hành nào mang giao diện chính là anh thì chưa. Liệu em có thể cho anh cài hệ điều hành đó cho em được không?',
     btnYes: 'Vâng ạ, babi của em ❤️ ',
     btnNo: 'Không đâu anh trai à :3',
     question:'Give me a chance to be your lover <3', 
