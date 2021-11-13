@@ -1,20 +1,20 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Mặc dù anh với em chỉ quen nhau trong thời gian ngắn.
-    Anh cũng đã muốn viết cho em bài thơ nào đấy.
-    Nhưng nghĩ lại chỉ thấy một từ nhớ em. 
-    Nhưng mà em biết không từ cái ngày mà sét đánh anh không chết.
-    Thì anh đã kết lấy em về nhà rồi đó.❤️`,
+    introTitle: 'Chị à!',
+    introDesc: `Mặc dù em với chị chỉ quen nhau trong thời gian ngắn.
+    Nhưng mà hong hiểu sao em đã có cảm giác thích chị rồi.
+    Và nếu yêu chị là ván bài, 
+    thì en all in khỏi cần xem bài.
+    Nói thẳng thế cho nhanh❤️`,
     btnIntro: 'hihi, love you so',
-    title: 'Mặc dù anh cài win với anh là chuyện đơn giản 😙',
-    desc: 'Thế nhưng cài cho em hệ điều hành nào mang giao diện chính là anh thì chưa. Liệu em có thể cho anh cài hệ điều hành đó cho em được không?',
-    btnYes: 'Vâng ạ, babi của em ❤️ ',
-    btnNo: 'Không đâu anh trai à :3',
-    question:'Give me a chance to be your lover <3', 
+    title: 'Mặc dù cài win với em là chuyện đơn giản 😙',
+    desc: 'Thế nhưng cài cho chị hệ điều hành nào mang giao diện chính là em thì chưa. Liệu chị có thể cho em cài hệ điều hành đó cho chị được không?',
+    btnYes: 'uki nè, babi của chị ❤️ ',
+    btnNo: 'Không đâu em trai ngốc à :3',
+    question:'Liệu em có thể làm người yêu của chị được hong <3', 
     btnReply: 'Send it to me <3',
-    reply: 'Dạ <33333333',
-    mess: 'You know that 🥰. Love you so much 😘😘',
-    messDesc: 'Pinky swear ?',
+    reply: 'Uki nè bé <33333333',
+    mess: 'Em biết mà 🥰. Yêu chị nhiều 😘😘',
+    messDesc: 'Sáng thứ 5 em dẫn chị đi Vũng Tàu nhá công chúa của em',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/nga.phamthuy.1441'
+    messLink: 'https://ngyt.xyz/index.php?id=QMY0yLYrwWDhsbi'
 }
