@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Em biết mà 🥰. Yêu chị nhiều 😘😘',
     messDesc: 'Sáng thứ 5 em dẫn chị đi Vũng Tàu nhá công chúa của em',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://ngyt.xyz/index.php?id=QMY0yLYrwWDhsbi'
+    messLink: 'https://ngyt.xyz/index.php?id=1cKnF3p7KRv'
 }
